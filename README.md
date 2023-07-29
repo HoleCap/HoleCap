@@ -18,3 +18,6 @@
 - <code>🌐 Discord Tag: **.Cap.**</code><br>
 - <code>🌐 Discord Server: [**📣Dev Community**](https://discord.gg/ajaN2T7PkB)</code><br>
 - <code>🌐 Twitter: [**Cap_Dev_**](https://twitter.com/Cap_Dev_)</code><br>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=itzheropvp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/itzheropvp)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzheropvp&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/itzheropvp)
