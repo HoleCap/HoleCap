@@ -12,4 +12,4 @@
 
 ### Certificates & More: <br>
 
-- <code>##### 📝 Certified CISCO Network Academy</code><br>
+- ##### <code> 📝 Certified CISCO Network Academy</code><br>
