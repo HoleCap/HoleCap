@@ -3,7 +3,7 @@
 **There are some of my infos that it could help you understand who i am!**<br>
 
 - <code>🎂 Age: 15 Years Old</code><br>
-- 🌍 Nationality: Italy<br>
-- 👀 Profession: Student & Web Developer<br>
-- 📃 Languages: HTML & CSS, Java, JavaScripts, lua<br>
-- ✨ Other Hobbies: 
+- <code>🌍 Nationality: Italy</code><br>
+- <code>👀 Profession: Student & Web Developer</code><br>
+- <code>📃 Languages: HTML & CSS, Java, JavaScripts, lua</code><br>
+- <code>✨ Other Hobbies:<code>
