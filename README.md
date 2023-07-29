@@ -8,7 +8,6 @@
 - <code>🌍 Nationality: Italy</code><br>
 - <code>👀 Profession: Student & Web Developer</code><br>
 - <code>📃 Languages: HTML & CSS, Java, JavaScripts, lua</code><br>
-- <code>✨ Other Hobbies:</code>
 
 ### 🪪 Certificates & More: <br>
 
