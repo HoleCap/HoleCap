@@ -16,4 +16,4 @@
 
 ### 📞 **Contacts:**<br>
 - <code>🌐 Discord Tag: **.cap.**</code><br>
-- <code>🌐 Discord Server: [Dev Community](https://discord.gg/ajaN2T7PkB)</code><br>
+- <code>🌐 Discord Server: [**Dev Community**](https://discord.gg/ajaN2T7PkB)</code><br>
